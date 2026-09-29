@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# LTspice 生成产物
+*.asc
+*.net
+*.log
+*.raw
+*.op.raw
+*.plt
+
+# 系统 / 编辑器
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
